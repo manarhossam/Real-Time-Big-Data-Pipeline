@@ -19,7 +19,6 @@ The pipeline demonstrates how real-time data can be collected, processed, stored
 * Scalable storage using Hadoop HDFS
 * Time-series analytics with InfluxDB
 * Real-time monitoring and visualization with Grafana
-* 
 ---
 
 ## 💻 Deployment
